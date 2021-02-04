@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Wallpapers Shop </title>
+    <meta name="description" content="This is my first project">
+  <head>
+  <body>
+    <style>
+      h3{
+        color: red;
+      }
+    </style>
+      <h1><mark><u>Wallpapers Shop<mark></u></h1>
+      <h3>1]Batmanillustrator - Wallpapers</h3>
+      <img src="Batman.PNG" alt="" width="295px" height="150px">
+      <h3><del>15$</del></h3>
+      <h3><mark>Free</mark></h3>
+
+      <h3>1]Jokerillustrator - Wallpapers</h3>
+      <img src="Joker.PNG" alt="" width="295px" height="150px">
+      <h3><del>15$</del></h3>
+      <h3><mark>9.99$</mark></h3>
+
+  </body>
+</html>
